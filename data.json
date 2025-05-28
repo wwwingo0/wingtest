@@ -1,0 +1,29 @@
+{
+  "total_streams_all_time": 300000000,
+  "total_streams_daily": 123456,
+  "monthly_listeners": 12345678,
+  "global_rank": 10,
+  "fastest_growing_country": "South Korea",
+  "fastest_growing_city": "Seoul",
+  "chart_performance": {
+    "global_rank": 10,
+    "us_rank": 20,
+    "south_korea_rank": 1,
+    "days_on_chart": 45
+  },
+  "top_countries": [
+    {"name": "South Korea", "streams": 12345678},
+    {"name": "United States", "streams": 9876543},
+    {"name": "Japan", "streams": 8765432},
+    {"name": "Indonesia", "streams": 7654321},
+    {"name": "Brazil", "streams": 6543210}
+  ],
+  "top_cities": [
+    {"name": "Seoul", "streams": 4321098},
+    {"name": "Tokyo", "streams": 3210987},
+    {"name": "Los Angeles", "streams": 2109876},
+    {"name": "New York", "streams": 1987654},
+    {"name": "Jakarta", "streams": 1876543}
+  ],
+  "milestone": "Next goal: 500M Like Crazy streams"
+}
